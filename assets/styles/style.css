@@ -16,6 +16,12 @@ a {
 h1{
     text-align: center;
     margin-top: 100px;
+    font-size: 26px;
+    font-weight: 800;
+    background-color: blue;
+    color: red;
+    -webkit-text-stroke: white 1px;
+
 }
 img {
     max-width: 100%;
